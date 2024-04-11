@@ -1,0 +1,50 @@
+_repo: Crisis_73178
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bok, Hannes
+    alias: Woodard, Wayne Francis
+    birthdate: 1914
+    deathdate: 1964
+    gutenberg_agent_id: '51643'
+    url: http://www.gutenberg.org/2009/agents/51643
+    wikipedia: https://en.wikipedia.org/wiki/Hannes_Bok
+creator:
+  author:
+    agent_name: Kornbluth, C. M. (Cyril M.)
+    aliases:
+    - Kornbluth, Cyril M.
+    - Eisner, Simon
+    - Cooke, Arthur
+    - Kornbluth, C.M.
+    - Lavond, Paul Dennis
+    - Corwin, Cecil
+    birthdate: 1923
+    deathdate: 1958
+    gutenberg_agent_id: '34039'
+    url: http://www.gutenberg.org/2009/agents/34039
+    wikipedia: https://en.wikipedia.org/wiki/Cyril_M._Kornbluth
+description: ''
+gutenberg_issued: '2024-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73178'
+language: en
+pgterms:marc905: 20240228105342corwin
+pgterms:marc906: '1942'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bColumbia Publications Inc., $c1942.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Diplomacy -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Crisis!
+url: http://www.gutenberg.org/ebooks/73178
