@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '51643'
     url: http://www.gutenberg.org/2009/agents/51643
     wikipedia: https://en.wikipedia.org/wiki/Hannes_Bok
+covers:
+- cover_type: archival
+  image_path: 73178-h/images/cover.jpg
 creator:
   author:
     agent_name: Kornbluth, C. M. (Cyril M.)
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34039
     wikipedia: https://en.wikipedia.org/wiki/Cyril_M._Kornbluth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73178#Crisis
 gutenberg_issued: '2024-03-16'
 gutenberg_type: Text
 identifiers:
